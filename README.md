@@ -39,3 +39,9 @@ with a header added of:
 `x-locale: en-us`
 
 So you want the POQ backend project to send elfapi traffic to `localhost:8080` instead of `glow-dev.elfcosmetics.com`
+
+Make this change by editing line #54 of:
+
+`Poq.Backend.ElfShopify\Poq.Api.ElfShopify\Poq.Api.ElfShopify.WebApi\appsettings.Development.json`
+
+
