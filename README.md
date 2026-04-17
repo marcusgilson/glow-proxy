@@ -1,6 +1,6 @@
 # Simple Node Express Proxy Server
 
-A simple Node.js + Express proxy server to emulate the **elf Fastly (`glow.elfcosmetics.com`) proxy**.
+A simple Node.js + Express proxy server to locally emulate the **elf Fastly (`glow.elfcosmetics.com`) proxy**.
 
 ---
 
